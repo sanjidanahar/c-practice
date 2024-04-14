@@ -12,3 +12,4 @@ int main()
     printf("The factorial number is:%d",x);
     return 0;
 }
+
