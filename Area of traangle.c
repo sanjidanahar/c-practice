@@ -7,3 +7,5 @@ int main()
     printf("The area of triangle %d", result);
     return 0;
 }
+
+
